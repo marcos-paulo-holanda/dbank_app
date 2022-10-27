@@ -55,6 +55,6 @@ If you are hosting frontend code somewhere without using DFX, you may need to ma
 
 https://user-images.githubusercontent.com/66748798/198352028-d0b04e62-a5fe-4f4c-9422-19129b47a22a.mp4
 
-Acess this version of the app deploy in the www. 
+Acess this version of the app deploied in the www. 
 https://kl65k-nqaaa-aaaai-qgi7a-cai.raw.ic0.app/
 
